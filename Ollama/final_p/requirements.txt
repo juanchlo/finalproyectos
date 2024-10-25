@@ -1,0 +1,4 @@
+Flask
+langchain-community
+langchain_chroma
+langchain-ollama
